@@ -1,4 +1,4 @@
 # AutoGuiForRobi
 For Robi_dd3
 
-This program I made is only for Robi
+This programs I made is only for Robi
